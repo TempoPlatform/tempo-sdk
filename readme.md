@@ -1,4 +1,4 @@
-Tempo SDK for Game Developers
+# Tempo SDK for Game Developers
 
 Bring a new stream of revenue into your mobile games using the Tempo SDK. Tempo provides new kinds of ad units that run during gameplay in a non-disruptive manner which provide you revenue WHILE users are playing. Tempo ads can run alongside your existing interstitial and banner ads.
 
@@ -88,7 +88,7 @@ At runtime:
 
 ## Additional Information
 
-The maximum size for a branded game texture is 5 MB.
+The maximum size for a branded game texture is `5 MB`.
 
 # Tempo Minis
 
