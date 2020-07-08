@@ -16,6 +16,7 @@ Advertisers can brand the game elements you define.
 
 * Tempo Minis - Status: Closed beta for select developers
 
+![Image](https://github.com/TempoPlatform/tempo-sdk/blob/master/images/Tempo%20Mini%20for%20Download.png?raw=true)
 
 Used alone or in conjunction with Branded Placements, Tempo Minis provide a way for advertisers to offer a shopping or download experience non-disruptively during your game. 
 
