@@ -10,7 +10,7 @@ The Tempo SDK provides a quick way to implement Tempo Ad Units into your Unity g
 
 * Branded Placements - Status: Available for Unity games
 
-![Image]https://github.com/TempoPlatform/tempo-sdk/blob/master/images/Branded%20Placements.png?raw=true
+![Image] https://github.com/TempoPlatform/tempo-sdk/blob/master/images/Branded%20Placements.png?raw=true
 
 Advertisers can brand the game elements you define.
 
